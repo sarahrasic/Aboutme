@@ -1,0 +1,15 @@
+body,html   { 
+    background-color: rgb(155,140,30);
+}
+
+p {
+    color: orange;    
+
+}
+.white-copy{
+color: white;
+}
+
+#content-wrapper{
+width: 600px;
+}
